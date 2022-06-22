@@ -1,0 +1,10 @@
+inputBtn.addEventListener("click", input)
+function input(){
+     num = prompt(parseFloat("Your number is: ", 0));
+    if (num != null){
+        firstNum.innerHTML = "Your first number is "+ num;
+        //console.log("work!")
+    }
+
+    
+}
