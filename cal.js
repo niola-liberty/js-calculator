@@ -34,7 +34,7 @@ else{
     alert("ERROR")
 }
 
-
+//start of my personal project
 function display(){
         
     number1 = parseFloat(prompt("Enter first number: "))
